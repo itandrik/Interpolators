@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/circle"
+        android:id="@+id/loadingCircle1"
+        android:gravity="center"
+        android:left="-27px"
+        android:top="54px">
+        <bitmap android:src="@drawable/circ" />
+    </item>
+    <item
+        android:drawable="@drawable/circle"
+        android:gravity="center"
+        android:left="-53px"
+        android:top="28px" >
+        <bitmap android:src="@drawable/circ" />
+    </item>
+    <item
+        android:drawable="@drawable/circle"
+        android:gravity="center"
+        android:left="-59px"
+        android:top="-9px" >
+        <bitmap android:src="@drawable/circ" />
+    </item>
+    <item
+        android:drawable="@drawable/circle"
+        android:gravity="center"
+        android:left="-43px"
+        android:top="-42px" >
+        <bitmap android:src="@drawable/circ" />
+    </item>
+    <item
+        android:drawable="@drawable/circle"
+        android:gravity="center"
+        android:left="-10px"
+        android:top="-59px" >
+        <bitmap android:src="@drawable/circ" />
+    </item>
+    <item
+        android:drawable="@drawable/circle"
+        android:gravity="center"
+        android:left="27px"
+        android:top="-54px" >
+        <bitmap android:src="@drawable/circ" />
+    </item>
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/circle"
+        android:left="53px"
+        android:top="-28px" >
+        <bitmap android:src="@drawable/circ" />
+    </item>
+    <item
+        android:drawable="@drawable/circle"
+        android:gravity="center"
+        android:left="59px"
+        android:top="9px" >
+        <bitmap android:src="@drawable/circ" />
+    </item>
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/circle"
+        android:left="43px"
+        android:top="42px" >
+        <bitmap android:src="@drawable/circ" />
+    </item>
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/circle"
+        android:left="10px"
+        android:top="59px" >
+        <bitmap android:src="@drawable/circ" />
+    </item>
+</layer-list>
