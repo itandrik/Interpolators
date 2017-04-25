@@ -144,7 +144,7 @@ public class Loading extends View {
         ObjectAnimator progressAnimator = ObjectAnimator.ofInt(target, propertyName, 0, 1000);
         progressAnimator.setInterpolator(new AccelerateDecelerateInterpolator());
         progressAnimator.setDuration(2000);
-        progressAnimator.setStartDelay(1000);
+        progressAnimator.setStartDelay(2000);
         progressAnimator.setRepeatMode(ValueAnimator.RESTART);
         progressAnimator.setRepeatCount(ValueAnimator.INFINITE);
         return progressAnimator;
